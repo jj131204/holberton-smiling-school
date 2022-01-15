@@ -296,3 +296,12 @@ footer{
     width: 100%;
     background-repeat: no-repeat;
 }
+
+
+.purple-color{
+    background-color:var(--purple-color);
+}
+
+.holberton_school-icon-check:before {
+    content: "\e905";
+  }
