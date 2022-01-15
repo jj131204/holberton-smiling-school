@@ -305,3 +305,19 @@ footer{
 .holberton_school-icon-check:before {
     content: "\e905";
   }
+
+
+
+  /*courses ----------------------------------------------------------
+  ------------------------------------------------------------*/
+
+.heroCourses{
+    top:0;
+    background:url("IMAGES/pic_3.jpg")center/cover;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.purple-color-letras{
+    color:var(--purple-color);
+}
